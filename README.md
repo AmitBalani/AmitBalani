@@ -7,11 +7,10 @@
 
 ##                                             Connect with me
 <p align="center">
-	<a href="mailto:amitbalani2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:amitbalani2@gmail.com"><img img src="https://img.shields.io/badge/Gmail-FF0000.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/AmitBalani"><img src="https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/919601045144"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/amit-balani-33129311a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://msng.link/o/?ariestian=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="https://www.linkedin.com/in/amit-balani-33129311a/"><img src="https://img.shields.io/badge/linkedln-0072b1.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://msng.link/o/?ariestian=sc"><img src="https://img.shields.io/badge/snapchat-FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
 
 <!---
